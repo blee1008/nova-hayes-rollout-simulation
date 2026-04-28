@@ -35,7 +35,6 @@ Act as a digital media strategist and develop strong decision-making skills that
 - Which two platforms do you commit to for the rollout window?
 - Do you optimize for raw follower growth or right-demographic growth?
 
-> Seeds planted in Phase 1 surface in Module 6 analytics. 
 
 ### Phase 2 · Build the Machine · Modules 3 + 4
 - How much of the content strategy goes toward trend content versus brand storytelling?
@@ -43,7 +42,6 @@ Act as a digital media strategist and develop strong decision-making skills that
 - Nova wants to release on Day 10. Your calendar says Day 18. Who is right and why?
 - Pre-release content shows high saves and low shares. Do you hold the strategy or pivot?
 
-> Platform decisions made here determine whether Module 9 is a manageable adjustment or a full crisis.
 
 ### Phase 3 · React and Adjust · Modules 5 + 6 1
 - Follower count is up 22% but demographic match dropped from 74% to 58%. Do you celebrate or flag it?
