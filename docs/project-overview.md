@@ -43,7 +43,7 @@ Act as a digital media strategist and develop strong decision-making skills that
 - Pre-release content shows high saves and low shares. Do you hold the strategy or pivot?
 
 
-### Phase 3 · React and Adjust · Modules 5 + 6 1
+### Phase 3 · React and Adjust · Modules 5 + 6 
 - Follower count is up 22% but demographic match dropped from 74% to 58%. Do you celebrate or flag it?
 - A post flopped. Engagement dropped 40% in 48 hours. The manager wants to post more. What is the third option?
 synthesize for rollout
