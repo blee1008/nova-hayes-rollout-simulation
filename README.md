@@ -1,5 +1,6 @@
 # Nova Hayes Rollout Simulation
-An Adobe Captivate-based digital media strategy simulation designed to train emerging strategists through a 31-day artist growth campaign.## The Client — Nova Hayes
+An Adobe Captivate-based digital media strategy simulation designed to train emerging strategists through a 31-day artist growth campaign.
+## The Client — Nova Hayes
 
 | | |
 |---|---|
