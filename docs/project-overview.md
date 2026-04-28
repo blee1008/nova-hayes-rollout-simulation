@@ -10,7 +10,7 @@ This project is a scenario-based Adobe Captivate training designed to teach aspi
 ## Project summary:
 Nova Hayes is an emerging artist under management who needs to increase her social media presence and overall data as an artist. The learner will become a "Digital Strategist" in order to produce results that drive Nova into stardom.
 ## Core simulation concept:
-Learner will take on "A Day in the Life" of a digital media strategist in order to complete tasks related to growth and acheivement.
+Learner will take on "A Day in the Life" of a digital media strategist in order to complete tasks related to growth and achievement.
 ## Learner role 
 Act as a digital media strategist and develop strong decision-making skills that drive positive outcomes.
 ## Nova Hayes profile  
@@ -52,4 +52,5 @@ synthesize for rollout
 ## Research principles 
 Clark and Mayer (2023)
 
-Captivate production status
+Captivate production status: 
+Building out the shell of each module and slide format for ease of information input
